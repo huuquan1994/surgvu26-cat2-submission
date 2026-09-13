@@ -1,0 +1,7 @@
+/models/*
+!/models/.gitkeep
+*.tar
+*.tar.gz
+*.mp4
+__pycache__/
+*.pyc
